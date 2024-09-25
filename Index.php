@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>โปรเจค</title>
-    <link rel="stylesheet" href="se.css" />
+    <link rel="stylesheet" href="css/se.css" />
     <style>
         .container {
             display: grid;
