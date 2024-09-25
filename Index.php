@@ -19,7 +19,7 @@
     <h1>เส้นทางวิกฤต</h1>
     <form>
     <div class="container">
-    <img src="img/view.jpg" alt="Centered Image" >
+  <!--   <img src="img/view.jpg" alt="Centered Image" > -->
     </div>
     <table class="card">
         <thead>
@@ -46,6 +46,9 @@
                 <td><input type="number" name="ef_A" class="input"></td>
                 <td><input type="number" name="ls_A" class="input"></td>
                 <td><input type="number" name="lf_A" class="input"></td>
+                <td><input type="number" name="stack_A" class="input"></td>
+                <td><input type="number" name="lf_A" class="input"></td>
+
             </tr>
             <tr>
                 <td>B</td>
@@ -87,11 +90,86 @@
                 <td><input type="number" name="ls_F" class="input"></td>
                 <td><input type="number" name="lf_F" class="input"></td>
             </tr>
+            <tr>
+                <td>G</td>
+                <td><input type="number" name="duration_G" class="input"></td>
+                <td><input type="number" name="es_G" class="input"></td>
+                <td><input type="number" name="ef_G" class="input"></td>
+                <td><input type="number" name="ls_G" class="input"></td>
+                <td><input type="number" name="lf_G" class="input"></td>
+            </tr>
+            <tr>
+                <td>H</td>
+                <td><input type="number" name="duration_H" class="input"></td>
+                <td><input type="number" name="es_H" class="input"></td>
+                <td><input type="number" name="ef_H" class="input"></td>
+                <td><input type="number" name="ls_H" class="input"></td>
+                <td><input type="number" name="lf_H" class="input"></td>
+            </tr>
+            <tr>
+                <td>I</td>
+                <td><input type="number" name="duration_I" class="input"></td>
+                <td><input type="number" name="es_I" class="input"></td>
+                <td><input type="number" name="ef_I" class="input"></td>
+                <td><input type="number" name="ls_I" class="input"></td>
+                <td><input type="number" name="lf_I" class="input"></td>
+            </tr>
+            <tr>
+                <td>J</td>
+                <td><input type="number" name="duration_J" class="input"></td>
+                <td><input type="number" name="es_J" class="input"></td>
+                <td><input type="number" name="ef_J" class="input"></td>
+                <td><input type="number" name="ls_J" class="input"></td>
+                <td><input type="number" name="lf_J" class="input"></td>
+            </tr>
+            <tr>
+                <td>K</td>
+                <td><input type="number" name="duration_K" class="input"></td>
+                <td><input type="number" name="es_K" class="input"></td>
+                <td><input type="number" name="ef_K" class="input"></td>
+                <td><input type="number" name="ls_K" class="input"></td>
+                <td><input type="number" name="lf_K" class="input"></td>
+            </tr>
+            <tr>
+                <td>L</td>
+                <td><input type="number" name="duration_L" class="input"></td>
+                <td><input type="number" name="es_L" class="input"></td>
+                <td><input type="number" name="ef_L" class="input"></td>
+                <td><input type="number" name="ls_L" class="input"></td>
+                <td><input type="number" name="lf_L" class="input"></td>
+            </tr>
+            <tr>
+                <td>M</td>
+                <td><input type="number" name="duration_M" class="input"></td>
+                <td><input type="number" name="es_M" class="input"></td>
+                <td><input type="number" name="ef_M" class="input"></td>
+                <td><input type="number" name="ls_M" class="input"></td>
+                <td><input type="number" name="lf_M" class="input"></td>
+            </tr>
+            <tr>
+                <td>N</td>
+                <td><input type="number" name="duration_N" class="input"></td>
+                <td><input type="number" name="es_N" class="input"></td>
+                <td><input type="number" name="ef_N" class="input"></td>
+                <td><input type="number" name="ls_N" class="input"></td>
+                <td><input type="number" name="lf_N" class="input"></td>
+            </tr>
+            <tr>
+                <td>O</td>
+                <td><input type="number" name="duration_O" class="input"></td>
+                <td><input type="number" name="es_O" class="input"></td>
+                <td><input type="number" name="ef_O" class="input"></td>
+                <td><input type="number" name="ls_O" class="input"></td>
+                <td><input type="number" name="lf_O" class="input"></td>
+            </tr>
         </tbody>
     </table>
     </form>
 </body>
 <footer>
 <button> Click Me! </button>
+
+ 
+
 </footer>
 </html>
