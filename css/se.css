@@ -124,10 +124,10 @@ button {
 .card {
   width: 190;
   height: 254;
-  background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+  background-image: linear-gradient(163deg, #ffffff 0%, #757575 100%);
   border-radius: 20px;
   transition: all .3s;
  } 
  .card:hover {
-  box-shadow: 0px 0px 30px 1px rgba(0, 255, 117, 0.30);
+  box-shadow: 0px 0px 30px 1px rgba(213, 220, 216, 0.3);
  }
