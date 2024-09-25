@@ -5,11 +5,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>โปรเจค</title>
     <link rel="stylesheet" href="se.css" />
+    <style>
+        .container {
+            display: grid;
+            place-items: center; /* จัดแนวทั้งแนวนอนและแนวตั้ง */
+            height: 20;   /*     สูงเต็มความสูงของหน้าต่าง */
+            padding: auto;   
+            margin: 10;    
+        }
+    </style>
 </head>
 <body>
     <h1>เส้นทางวิกฤต</h1>
     <form>
-    <table>
+    <div class="container">
+    <img src="img/view.jpg" alt="Centered Image" >
+    </div>
+    <table class="card">
         <thead>
             <tr>
                 <th>กิจกรรม</th>
@@ -18,6 +30,12 @@
                 <th>EF (Early Finish)</th>
                 <th>LS (Late Start)</th>
                 <th>LF (Late Finish)</th>
+                <th>stack</th>
+                <th>a</th>
+                <th>m</th>
+                <th>b</th>
+                <th>T</th>
+                <th>𝜎^2</th>
             </tr>
         </thead>
         <tbody>
