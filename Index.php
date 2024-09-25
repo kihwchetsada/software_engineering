@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>โปรเจค</title>
-    <link rel="stylesheet" href="css/se.css" />
+    <link rel="stylesheet" href="css/se.css" /> 
     <style>
         .container {
             display: grid;
@@ -18,6 +18,40 @@
 <body>
     <h1>เส้นทางวิกฤต</h1>
     <form>
+       <table>
+        <thead>
+            <tr>
+                <td>กิจกรรม</td>
+                <td>กิจกรรมที่ต้องทำ</td>
+                
+            </tr>
+            <tr>
+                <td>A</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>B</td>
+                <td>A</td>
+            </tr>
+            <tr></tr>
+            <tr></tr>
+            <tr></tr>
+            <tr></tr>
+            <tr></tr>
+            <tr></tr>
+            <tr></tr>
+            <tr></tr>
+            <tr></tr>
+            <tr></tr>
+            <tr></tr>
+            <tr></tr>
+            <tr></tr>
+        </thead>
+       </table>
+       <img src="img/view.jpg" alt="Centered Image" > 
+    </form>
+    <form>
+        <br><br><br><br><br>
     <div class="container">
   <!--   <img src="img/view.jpg" alt="Centered Image" > -->
     </div>
