@@ -9,7 +9,7 @@
 <body>
     <div class="container">
     <h1>เส้นทางวิกฤต</h1>
-<!-- พระอาทิตย์ --> 
+<!-- พระจันทร์ --> 
 <div class="container2">
   <div class="cloud front">
     <span class="left-front"></span>
