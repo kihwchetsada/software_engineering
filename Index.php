@@ -8,7 +8,9 @@
 </head>
 <body>
     <div class="container">
+
     <h1>เส้นทางวิกฤต</h1>
+
 <!-- พระจันทร์ --> 
 <div class="container2">
   <div class="cloud front">
@@ -393,9 +395,9 @@ h78.747C231.693,100.736,232.77,106.162,232.77,111.694z"
             echo "<p><strong>T:</strong> " . number_format($T, 2) . "</p>";
             echo "<p><strong>σ<sub>t</sub>:</strong> " . number_format($sigma_t, 2) . "</p>";
             echo "<p><strong>Z:</strong> " . number_format($Z, 2) . "</p>";
+
             echo "<img src='img/Gianchart.jpg' alt='Gianchart' style='max-width:100%; height:auto;'>" ;  
-            echo "<img src='img/statistics.png' alt='Statistics' style='max-width:100%; height:auto;'>"; 
-            
+            echo "<img src='img/statistics.png' alt='Statistics' style='max-width:100%; height:auto;'>";      
         } ?>
     </div>
 </body>

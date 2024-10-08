@@ -82,7 +82,8 @@ form {
 p {
   font-size: 18px; /* กำหนดขนาดฟอนต์เป็น 18px */
   margin: 10px 0; /* เพิ่ม margin ด้านบนและล่าง 10px */
-}/* From Uiverse.io by satyamchaudharydev */ 
+}
+/* กำหนดปุ่ม */ 
 button {
   --bg: #e74c3c;
   --text-color: #fff;
@@ -153,6 +154,8 @@ button:active {
 .input:focus::placeholder {
   color: #999;
 }
+
+
  
 /* พระจันทร์ */
 .container2 {
